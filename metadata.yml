@@ -1,0 +1,14 @@
+---
+:id: 318730194
+:submitters:
+- :name: Laura Stephenson
+  :email: steph933@umn.edu
+- :name: Anniken Rabben
+  :email: rabbe014@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-20 18:40:09.446845000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-20 11:40:09.446845000 Z
+:status: processed
+:score: 95.5
